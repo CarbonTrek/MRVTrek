@@ -1,2 +1,2 @@
 # MRVTrek
-For our proprietary / commercial MRV service (to be kept private)
+For our commercial MRV service (to be kept private)
